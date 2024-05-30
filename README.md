@@ -17,8 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/https://anus-hashmani.vercel.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://anus-hashmani.vercel.app/" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/anas hashmani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anas hashmani" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/anas-hashmani-bb2958241" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anas-hashmani-bb2958241" height="30" width="40" /></a>
 <a href="https://fb.com/anushashmani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anushashmani" height="30" width="40" /></a>
 <a href="https://dribbble.com/anus-hashmani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="anus-hashmani" height="30" width="40" /></a>
 </p>
