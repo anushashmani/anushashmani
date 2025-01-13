@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/anas-hashmani-bb2958241" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anas-hashmani-bb2958241" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/hafiz-muhammad-anas-hashmani-bb2958241" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anas-hashmani-bb2958241" height="30" width="40" /></a>
 <a href="https://fb.com/anushashmani" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anushashmani" height="30" width="40" /></a>
 <a href="https://anus-hashmani.vercel.app/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://anus-hashmani.vercel.app/" height="30" width="40" /></a>
 </p>
