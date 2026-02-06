@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Mern Stack Development**
 
-- 👨‍💻 All of my projects are available at [https://anus-hashmani.vercel.app/](https://anus-hashmani.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://anus-hashmani.vercel.app/](https://anus-hashmani.vercel.app/)]
 
 - 💬 Ask me about **JavaScript, ReactJs, NodeJs, Next Js, Typescript, Express Js**
 
