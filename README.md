@@ -1,32 +1,137 @@
-<h1 align="center">Hi 👋, I'm Anus Shafi Hashmani</h1>
-<h3 align="center">A passionate 🚀 Full Stack Developer | Mern Stack Developer | Software Engineer 🚀</h3>
+<!-- 
+  Hafiz Anas Hashmani | Ahmed Aslam | MERN Stack & Full Stack Developer | TwelveMonday | Boundless Technologies | Integral Technologists
+  Skills: React.js, Next.js, MongoDB, Node.js, TypeScript, Firebase, AWS, Docker, Deployment
+  Location: Pakistan
+-->
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=anushashmani&label=Profile%20views&color=0e75b6&style=flat" alt="anushashmani" /> </p>
+<!-- Primary Banner -->
+![Hafiz Anas Hashmani - Full Stack Developer | MERN Stack | Software Engieer | Boundless Technologies](https://github.com/anushashmani/anushashmani.github.io/blob/main/cover-image.png)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anushashmani" alt="anushashmani" /></a> </p>
+<h1 align="center"><strong>Hafiz Anas Hashmani | MERN Stack & Full Stack Developer</strong></h1>
 
-- 🌱 I’m currently learning **Mern Stack Development**
-
-- 👨‍💻 All of my projects are available at [https://anus-hashmani.vercel.app/](https://anus-hashmani.vercel.app/)]
-
-- 💬 Ask me about **JavaScript, ReactJs, NodeJs, Next Js, Typescript, Express Js**
-
-- 📫 How to reach me **anushashmani10@gmail.com**
-
-- 📄 Know about my experiences [https://anus-hashmani-2002.tiiny.site/](https://anus-hashmani-2002.tiiny.site/)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/hafiz-muhammad-anas-hashmani-bb2958241" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anas-hashmani-bb2958241" height="30" width="40" /></a>
-<a href="https://fb.com/anushashmani" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anushashmani" height="30" width="40" /></a>
-<a href="https://anus-hashmani.vercel.app/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://anus-hashmani.vercel.app/" height="30" width="40" /></a>
+<p align="center">
+  <strong>Professional Developer known as <em>Ahmed Aslam</em> – Crafting scalable web applications with React, Next.js, MongoDB, and Node.js</strong>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+<p align="center">
+  🚀 Collaborated with teams at <strong>TwelveMonday</strong>, <strong>Boundless Technologies</strong>, and <strong>Integral Technologists</strong>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anushashmani&show_icons=true&locale=en&layout=compact" alt="anushashmani" /></p>
+<h3 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header" alt="GitHub Profile Header Wave" />
+</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anushashmani&show_icons=true&locale=en" alt="anushashmani" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anushashmani&" alt="anushashmani" /></p>
+## 👨‍💻 About Me
+
+- 🔭 Currently building full-stack projects using **React JS**, **Next JS**, **MongoDB**, **Node.js** and **Nest.js**
+- 🌱 Currently learning: **AWS**, **Docker**, and **Modern Deployment Workflows**
+- 💼 Portfolio: [Visit My Website](http://anasshafihashmani.me)
+- 💬 Ask me about: **MERN Stack**, **Full Stack Development**, **Firebase**, **REST APIs**, **Next.js**, **Docker**, **AWS**
+- 📬 Contact me: **anashashmani2002@gmail.com**
+
+---
+
+## 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/hafiz-muhammad-anas-hashmani-71aa36388/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn - Hafiz Anas Hashmani" /></a>
+  <!-- <a href="https://www.instagram.com/ahmed_here_990/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram - Ahmed Aslam" /></a> -->
+</p>
+
+---
+
+## 🛠️ Skills & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,next,nodejs,mongodb,ts,js,html,css,tailwind,bootstrap,mui,redux,firebase,git,github,vercel,netlify,docker,aws,postman,figma,vite,replit,supabase,mysql,drizzle,reactquery" alt="Tech Stack of Hafiz Anas Hashmani" />
+</p>
+
+---
+## 🚀 Technologies & Frameworks
+
+<!-- Frontend Technologies -->
+![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
+![Redux](https://img.shields.io/badge/Redux-593d88?style=for-the-badge&logo=redux&logoColor=white)
+![React Query](https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+<!-- Styling Frameworks -->
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Material UI](https://img.shields.io/badge/MaterialUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+
+<!-- Backend Technologies -->
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+
+<!-- Databases -->
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySql](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Drizzle](https://img.shields.io/badge/Drizzle%20ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black)
+
+<!-- DevOps & Cloud -->
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+
+<!-- Other Tools -->
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+## 📊 GitHub Stats & Widgets
+
+<p align="center">
+  <a href="https://github.com/anushashmani">
+    <img src="https://github-widgetbox.vercel.app/api/profile?username=anushashmani&data=repositories,stars,commits&theme=light&hide_border=true" alt="GitHub Widget for Hafiz Anas Hashmani" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anushashmani&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views Counter" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anushashmani&theme=default" alt="GitHub Streak Stats - Hafiz Anas Hashmani" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anushashmani&show_icons=true&theme=default&title_color=007cff" alt="GitHub Stats - Hafiz Anas Hashmani" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anushashmani&layout=compact&theme=default&title_color=007cff" alt="Top Languages Used by Hafiz Anas Hashmani" />
+</p>
+
+---
+
+## 🗓️ Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anushashmani&area=true&bg_color=ffffff&color=007cff&line=007cff&point=24292e&hide_border=true" alt="GitHub Contribution Graph - Hafiz Anas Hashmani" />
+</p>
+
+<h3 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer Wave" />
+</h3>
+
+---
+
+<!-- 
+  Hidden Keywords for SEO: 
+  Hafiz Anas Hashmani, Ahmed Aslam, Full Stack Developer, MERN Stack Developer, TwelveMonday, Boundless Technologies, Integral Technologists,
+  React Developer, Next.js Developer, MongoDB Expert, Node.js, Firebase, AWS, Docker, Deployment Engineer, JavaScript Developer Pakistan
+-->
